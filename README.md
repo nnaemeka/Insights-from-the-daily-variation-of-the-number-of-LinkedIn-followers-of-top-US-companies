@@ -1,2 +1,3 @@
 # Insights-from-the-daily-variation-of-the-number-of-LinkedIn-followers-of-top-US-companies
-I investigate how a mathematical modelling from the result of data analysis of the number of new LinkedIn follower top US companies have can be used to predict human traffick on each days of the week.
+This project explores what the number of a company's daily LinkedIn page followers tells us about traffic dependence on days of the week for to US companies with Presence in LinkedIn in particular and LinkedIn, in general. The cubic nature of the result has marketing implications, for instance, it can be used by a company to better attract customers/clients via day-of-the-week specific advertisements. In addition, knowing which day of the week the traffick on a companies LinkedIn page is highest and lowest enable the marketing team of a company to time when to add new posts.
+
